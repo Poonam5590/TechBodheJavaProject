@@ -11,4 +11,10 @@ public class Class1 {
 		System.out.println("Test 1 class 1");
 	}
 	
+@Test
+	
+	public void method()
+	{
+		System.out.println("new method");
+	}
 }
